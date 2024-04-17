@@ -13,7 +13,7 @@ function lampOn() {
 }
 
 function lampBroken(){
-    lamp.src='./img.quebradda.jpg';
+    lamp.src='./img/desligada.jpg';
 }
 
 turnOn.addEventListener('click', lampOn);
